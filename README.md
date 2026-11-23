@@ -11,9 +11,6 @@ The code currently provides:
 - **CCOD/DDPG**: a separate DDPG implementation
 - Fixed contention-window, BEB, and fairness baselines
 
-The recommended architecture overview is
-[`OSCAR_ARCHITECTURE_SOURCE_OF_TRUTH.md`](./docs/OSCAR_ARCHITECTURE_SOURCE_OF_TRUTH.md).
-
 ## Requirements
 
 - ns-3 with ns3-gym available
